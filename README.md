@@ -1,0 +1,2 @@
+# wechart-mine
+for myself
